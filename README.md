@@ -1,4 +1,4 @@
-# kalkulator usia Satrio Faiz Alfarizi
+# kalkulator usia
 
 Ini adalah proyek kalkulator usia menggunakan HTML, CSS, dan JavaScript. Kalkulator ini dapat menghitung usia seseorang berdasarkan tanggal
 lahir yang dimasukkan.
